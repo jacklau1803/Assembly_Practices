@@ -1,7 +1,7 @@
 ------------------------
 LAB 1: Intro to Logic Simulation
 CMPE 012 Winter 2019
-Liu, Dun
+Liu, Jack
 dliu34
 -------------------------
 What did you learn in this lab?
