@@ -155,7 +155,7 @@
 				move	$s2, $t5
 				j sum
 	sum:
-		add 	$t6, $s1, $s2
+		add 	$s0, $s1, $s2
 		li 	$v0, 1
 		andi 	$t6, $t6, 0xFF
 		
